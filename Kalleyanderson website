@@ -1,0 +1,40 @@
+<head>
+  <title>Kalley Anderson</title>
+  <style>
+    body {
+      text-align: center;
+      color: white;
+      font-family: verdana;
+      background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Landscape_summer_lake.jpg/800px-Landscape_summer_lake.jpg");
+      background-size: cover;
+      background-position: center;
+    }
+    img src {
+      padding: 25pt;
+    }
+    h1 {
+      font-size: 45px;
+    }
+    p {
+      font-size: 15px;
+    }
+    input {
+      padding: 10pt;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background:grey;
+      color: white;
+    }
+</style>
+</head>
+<body>
+  <img src="http://i.imgur.com/eJnDj7L.jpg"width="250">
+  <p>Hi! I'm Kalley, a Seattle-based marketer. Let's connect!</p>
+  <input type="email" input placeholder="Your email">
+  <input type="submit">
+</body>
