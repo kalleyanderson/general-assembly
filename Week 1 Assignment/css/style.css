@@ -1,0 +1,22 @@
+body {
+	background-color:#F4F3EE;
+	width: 1000px;
+	margin: 0 auto;
+	font-family: arial, sans-serif;
+	font-size:14px;
+	border-top: 3px solid #626366;
+	padding: 20px 0;
+	color: #E96B0B;
+}
+header {
+	text-align: center;
+}
+nav a {
+	font-weight: 600;
+	font-family: Arial, sans-serif;
+	color:#33658A;
+}
+img {
+	float: right;
+	margin:20px;
+}
