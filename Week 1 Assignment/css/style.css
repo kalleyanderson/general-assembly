@@ -10,13 +10,23 @@ body {
 }
 header {
 	text-align: center;
+	font-family: verdana;
 }
 nav a {
 	font-weight: 600;
 	font-family: Arial, sans-serif;
-	color:#33658A;
+	color:#102A3D;
 }
 img {
 	float: right;
 	margin:20px;
+}
+strong {
+	color: #33658A;
+}
+h3 {
+	color: #33658A;
+}
+span {
+	font-style: italic;
 }
